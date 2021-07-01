@@ -1,2 +1,2 @@
 # Game
- firstGame: Simon
+GameTest: Simon
